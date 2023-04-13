@@ -1,0 +1,384 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 97.7rem;
+}.desktop-1-kyE {
+  width: 100%;
+  height: 354.1rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #1a1616;
+}
+.desktop-1-kyE .auto-group-pg7r-jKN {
+  width: 97.7696rem;
+  height: 116.6945rem;
+  position: absolute;
+  left: 0;
+  top: 4.1055rem;
+}
+.desktop-1-kyE .auto-group-pg7r-jKN .rectangle-1-xbS {
+  width: 97.7696rem;
+  height: 59.1113rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-kyE .auto-group-pg7r-jKN .student-designer-g1e {
+  width: 43.2rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 31.7945rem;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 0.97;
+  color: #000000;
+  font-family: Iceland, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-kyE .auto-group-pg7r-jKN .hello-jEp {
+  width: 21.6rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 5.6rem;
+  top: 16.0945rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: IM FELL DW Pica SC, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-kyE .auto-group-pg7r-jKN .im-femina-lithika-EBa {
+  width: 43.4rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 23.2945rem;
+  font-size: 7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Dynalight, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-kyE .auto-group-pg7r-jKN .rectangle-3-7WG {
+  width: 97.3rem;
+  height: 57.7rem;
+  position: relative;
+  left: 0.2rem;
+  top: 58.9945rem;
+  background-size: 100.028% 108.307%;
+  background-position: -0.0135rem 0;
+  background-image: url('../assets/rectangle-3.png');
+}
+.desktop-1-kyE .auto-group-pg7r-jKN .group-7-yHa {
+  width: 19.4rem;
+  height: 5.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 53.9rem;
+  top: 5.3945rem;
+  border-radius: 3rem;
+}
+.desktop-1-kyE .auto-group-pg7r-jKN .group-7-yHa .group-6-UVE {
+  width: 100%;
+  height: 100%;
+  border-radius: 3rem;
+}
+.desktop-1-kyE .auto-group-pg7r-jKN .group-7-yHa .group-6-UVE .group-3-dd2 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-color: #e3288a;
+  border-radius: 3rem;
+}
+.desktop-1-kyE .auto-group-pg7r-jKN .group-7-yHa .group-6-UVE .group-3-dd2 .rectangle-5-nkp {
+  width: 17.5139rem;
+  height: 4.48rem;
+  position: absolute;
+  left: 0.8981rem;
+  top: 0.5929rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  border-radius: 3rem;
+}
+.desktop-1-kyE .auto-group-pg7r-jKN .group-7-yHa .group-6-UVE .group-3-dd2 .hobbies-p5E {
+  width: 9.8rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 1.2rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.97;
+  color: #000000;
+  font-family: Iceland, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-kyE .auto-group-pg7r-jKN .a-bit-about-me-sZJ {
+  width: 30.5rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 29.8rem;
+  top: 66.4945rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 0.97;
+  color: #000000;
+  font-family: Iceland, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-kyE .auto-group-pg7r-jKN .im-a-bachelor-of-technology-student-at-bsabdul-rahman-crescent-institute-of-technology-chennai-from-the-department-of-computer-science-engineeringa-designer-creator-and-a-budding-softerware-developer--m8t {
+  width: 68.1rem;
+  height: 24.7rem;
+  position: absolute;
+  left: 14.8rem;
+  top: 77.5945rem;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Convergence, 'Source Sans Pro';
+}
+.desktop-1-kyE .group-4-kmW {
+  width: 17rem;
+  height: 5.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 5.6rem;
+  top: 10rem;
+}
+.desktop-1-kyE .group-4-kmW .group-1-HmS {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-color: #e3288a;
+  border-radius: 3rem;
+}
+.desktop-1-kyE .group-4-kmW .group-1-HmS .rectangle-5-qHA {
+  width: 15.3472rem;
+  height: 4.48rem;
+  position: absolute;
+  left: 0.787rem;
+  top: 0.5929rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  border-radius: 3rem;
+}
+.desktop-1-kyE .group-4-kmW .group-1-HmS .about-me-9Yk {
+  width: 11.8rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 1.2rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.97;
+  color: #000000;
+  font-family: Iceland, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-kyE .group-5-RFN {
+  width: 17rem;
+  height: 5.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 29.9rem;
+  top: 9.5rem;
+}
+.desktop-1-kyE .group-5-RFN .group-2-ZMa {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-color: #e3288a;
+  border-radius: 3rem;
+}
+.desktop-1-kyE .group-5-RFN .group-2-ZMa .rectangle-5-hig {
+  width: 15.3472rem;
+  height: 4.48rem;
+  position: absolute;
+  left: 0.787rem;
+  top: 0.5929rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  border-radius: 3rem;
+}
+.desktop-1-kyE .group-5-RFN .group-2-ZMa .about-me-q4C {
+  width: 8.8rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 1.7rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 0.97;
+  color: #000000;
+  font-family: Iceland, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-kyE .auto-group-jxet-Ww2 {
+  box-sizing: border-box;
+  padding: 6.1rem 1.7rem 12rem 1.7rem;
+  width: 97.5rem;
+  height: 57.9rem;
+  position: absolute;
+  left: 0;
+  top: 120.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 114.895%;
+  background-position: -0rem -3.6967rem;
+  background-image: url('../assets/rectangle-6-bg.png');
+}
+.desktop-1-kyE .auto-group-jxet-Ww2 .skill-set-BnG {
+  margin: 0rem 12.3rem 2.7rem 0rem;
+  font-size: 5.5rem;
+  font-weight: 400;
+  line-height: 0.97;
+  color: #000000;
+  font-family: Iceland, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-kyE .auto-group-jxet-Ww2 .auto-group-ztbe-hVi {
+  margin-right: 5.8rem;
+  width: calc(100% - 5.8rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-1-kyE .auto-group-jxet-Ww2 .auto-group-ztbe-hVi .im-striving-to-become-more-proficient-in-writing-programmes-to-write-more-elegant-and-efficient-code-being-a-student-i-am-at-present-having-the-skill-to-learn-and-write-programming-in-python-java-html-c-i-will-develop-further-to-get-well-placed-1mJ {
+  margin-right: 1.7rem;
+  max-width: 52.4rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Convergence, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-kyE .auto-group-jxet-Ww2 .auto-group-ztbe-hVi .rectangle-8-pCx {
+  width: 34.2rem;
+  height: 31.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-kyE .auto-group-jxet-Ww2 .auto-group-jxet-Ww2-bg {
+  width: 97.5rem;
+  height: 57.9rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:efea15868d9762cffeb9c1f0c9c4334b168392ab');
+}
+.desktop-1-kyE .auto-group-vixa-sBE {
+  width: 97.5rem;
+  height: 57.6rem;
+  position: absolute;
+  left: 0;
+  top: 178.7rem;
+}
+.desktop-1-kyE .auto-group-vixa-sBE .o-b7E {
+  width: 2.7rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 50.7rem;
+  top: 14rem;
+  font-size: 5.5rem;
+  font-weight: 400;
+  line-height: 0.97;
+  color: #ffffff;
+  font-family: Iceland, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-kyE .auto-group-vixa-sBE .rectangle-9-WEC {
+  width: 97.5rem;
+  height: 57.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-kyE .auto-group-vixa-sBE .rectangle-14-SNk {
+  width: 24.7rem;
+  height: 18rem;
+  position: absolute;
+  left: 67.1rem;
+  top: 12.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-kyE .auto-group-vixa-sBE .rectangle-15-AZe {
+  width: 24.7rem;
+  height: 17.7rem;
+  position: absolute;
+  left: 67.1rem;
+  top: 33.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-kyE .auto-group-vixa-sBE .rectangle-13-Vrp {
+  width: 26.3rem;
+  height: 18rem;
+  position: absolute;
+  left: 38.1rem;
+  top: 33.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-kyE .auto-group-vixa-sBE .rectangle-12-dCL {
+  width: 30rem;
+  height: 18rem;
+  position: absolute;
+  left: 4.7rem;
+  top: 33.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-kyE .auto-group-vixa-sBE .hobbies-Zbn {
+  width: 17.4rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 36rem;
+  top: 3.4rem;
+  font-size: 5.5rem;
+  font-weight: 400;
+  line-height: 0.97;
+  color: #000000;
+  font-family: Iceland, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-kyE .auto-group-vixa-sBE .rectangle-10-scU {
+  width: 30rem;
+  height: 18rem;
+  position: absolute;
+  left: 4.7rem;
+  top: 12.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-kyE .auto-group-vixa-sBE .rectangle-11-1ig {
+  width: 27.4rem;
+  height: 18rem;
+  position: absolute;
+  left: 37rem;
+  top: 12.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
